@@ -1,0 +1,21 @@
+.nav {
+    margin-left: 25px;
+    margin-top: 10px;
+    grid-area: n;
+    background-color: #ededed;
+    font-family: Quicksans, sans-serif;
+    padding: 20px;
+  }
+  
+  .nav img {
+    width: 16px;
+  }
+
+  .item a{
+    color: #657686;
+    text-decoration: none;
+  }
+
+  .item a.activeLink {
+    color:rgb(102, 142, 230);
+  }
